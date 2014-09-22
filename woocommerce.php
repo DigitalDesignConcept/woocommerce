@@ -3,8 +3,8 @@
  * Plugin Name: WooCommerce
  * Plugin URI: http://www.woothemes.com/woocommerce/
  * Description: An e-commerce toolkit that helps you sell anything. Beautifully.
- * Version: 2.2.4
- * Author: WooThemes
+ * Version: 2.2.4.1
+ * Author: WooThemes forked by Frédéric DESCHAMPS
  * Author URI: http://woothemes.com
  * Requires at least: 3.8
  * Tested up to: 4.0
