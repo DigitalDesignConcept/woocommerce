@@ -8,6 +8,8 @@
  * Author URI: http://woothemes.com
  * Requires at least: 3.8
  * Tested up to: 4.0
+ * GitHub Plugin URI: https://github.com/UnPoilTefal/woocommerce
+ * GitHub Branch: develop
  *
  * Text Domain: woocommerce
  * Domain Path: /i18n/languages/
